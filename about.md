@@ -10,3 +10,4 @@
 
 ---
 
+{% include comments.html %}
