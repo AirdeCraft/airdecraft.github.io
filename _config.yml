@@ -53,7 +53,7 @@ blog_button:
 nav:
     - {title: 更新公告, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 团队信息, description: about, url: '/about'}      
     
 
 # Pagination
